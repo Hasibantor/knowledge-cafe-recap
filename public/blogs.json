@@ -1,0 +1,43 @@
+[
+    {
+      "id": "1",
+      "cover": "https://images.unsplash.com/photo-1604443952530-d8a2d1f3871b",
+      "title": "The Great Adventure",
+      "author": "John Doe",
+      "author_img": "https://randomuser.me/api/portraits/men/1.jpg",
+      "posted_date": "2025-03-23",
+      "reading_time": "3 hours",
+      "hashtags": ["#adventure", "#fiction", "#thriller"]
+    },
+    {
+      "id": "2",
+      "cover": "https://images.unsplash.com/photo-1492562080023-2a6d21207f98",
+      "title": "Mystery in the Dark",
+      "author": "Jane Smith",
+      "author_img": "https://randomuser.me/api/portraits/women/1.jpg",
+      "posted_date": "2025-03-22",
+      "reading_time": "2.5 hours",
+      "hashtags": ["#mystery", "#suspense", "#detective"]
+    },
+    {
+      "id": "3",
+      "cover": "https://images.unsplash.com/photo-1600385020570-ff3e72c5cc2e",
+      "title": "Journey to the Unknown",
+      "author": "Emily White",
+      "author_img": "https://randomuser.me/api/portraits/women/2.jpg",
+      "posted_date": "2025-03-21",
+      "reading_time": "4 hours",
+      "hashtags": ["#exploration", "#sciencefiction", "#space"]
+    },
+    {
+      "id": "4",
+      "cover": "https://images.unsplash.com/photo-1604041146269-8d8b76a4fbbf",
+      "title": "The Lost World",
+      "author": "Michael Green",
+      "author_img": "https://randomuser.me/api/portraits/men/2.jpg",
+      "posted_date": "2025-03-20",
+      "reading_time": "5 hours",
+      "hashtags": ["#fantasy", "#adventure", "#mystery"]
+    }
+  ]
+  
